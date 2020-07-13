@@ -1,0 +1,50 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:aletell",
+  "publicKey": [
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:aletell#Xi-gkHD8SR853jxvM0-Ydy8Y_83IuZ7_KZKYlq8hic0",
+      "controller": "did:github:aletell",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXwyc5hMFK4EEAAoCAwS6vgoM6pUHWRdfQH5bU8AW3TH8vzxGOp2lmDJv\r\nC+qcE3E39EKT2Yvk8e2YtzXEgmTLgeH+AsfHouj80D/AVNEGzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJfDJzmBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQYqmGu66Sc8oa8wD/bJMb4eYITytsq/SZaf7Oyb7o\r\nQrkPfrGBxSHkshrbgXQBAODvEyI58wFeZVa8VtSd4VTHsUVRjGQtoeXSZ/H+\r\nqI+kzlMEXwyc5hIFK4EEAAoCAwQ36JoFoQXsnJXo5KbL/+BTUeRjhy7YLREK\r\nBKVDqUnuuHwkFRecYrswlGmycJOOX6373Dsa4Cm4Px3vI913j8YVAwEIB8Jh\r\nBBgTCAAJBQJfDJzmAhsMAAoJEGKphruuknPKLJsBANXX4PLOARIsPLJ8dKd1\r\nKeaIZUE71bMu0CDyjFR+6H/mAQC/XfS9Ws4e9KhTl+cuSZv3zBApNCDMQ8yD\r\nrFxsty1Dug==\r\n=hYDk\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:aletell#wWJeOF8yekFaOlrNFpllUXL_glVid-Z9HsVQqVN6BBo",
+      "controller": "did:github:aletell",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXwyc5hMFK4EEAAoCAwQ3C/fDatocDOtyScZWiNVT7g4WPUndykg4O6ml\r\nbcxmgX9zCyd19E4Nf4z6LOM8ogLLF/h0M8ldNz6inNx6n9cPzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJfDJzmBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQrLS1Qi9wtw32AgEAzoNhYfRmsl0aVCC1nHmt3N1n\r\n1eEY/SvLm+gaCbeE8BEA/10FUaCh5v1fCx+IAWbHEmQpJOMCSg8gyPrqeoj4\r\nGvYezlMEXwyc5hIFK4EEAAoCAwTEPsv9BEfUBt4I6Fp4LUilFt9izNjblAqR\r\ny//vjCfFxIdzhFrdePaMnD/DmYkA7mvEgzcRAti9MC8j/HZEquPRAwEIB8Jh\r\nBBgTCAAJBQJfDJzmAhsMAAoJEKy0tUIvcLcNErMBANyqq9bi5PtnDUv6xG8D\r\nE1i/k41j1FiPSmPDDHdwmUN+AQDwvY5BojU/HFDxUgnV0j+DP8VgIRm6PAq7\r\nuScSnlPpGg==\r\n=9iNM\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "Ed25519VerificationKey2018",
+      "id": "did:github:aletell#cBSya8D6UvjlPtD6ULNW_7s2vOBY55CfGDlIgYc4yFM",
+      "controller": "did:github:aletell",
+      "publicKeyBase58": "1CbLio9jw1p6sNUhcbgrKQrrAjdNFJGntng22T52fBE"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "capabilityDelegation": [
+    "did:github:aletell#cBSya8D6UvjlPtD6ULNW_7s2vOBY55CfGDlIgYc4yFM"
+  ],
+  "capabilityInvocation": [
+    "did:github:aletell#cBSya8D6UvjlPtD6ULNW_7s2vOBY55CfGDlIgYc4yFM"
+  ],
+  "assertionMethod": [
+    "did:github:aletell#cBSya8D6UvjlPtD6ULNW_7s2vOBY55CfGDlIgYc4yFM"
+  ],
+  "keyAgreement": [
+    {
+      "id": "did:github:aletell#zC4Fa3tE1m6W51LwAae2XoQN6PcLUfGkyhYMvApvS16DFR",
+      "type": "X25519KeyAgreementKey2019",
+      "controller": "did:github:aletell",
+      "publicKeyBase58": "4krLX3CZiknaEtC8EXxqFCR6N4fhi4NCeUd8yqdbyy9D"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2020-07-13T17:41:58Z",
+    "verificationMethod": "did:github:aletell#cBSya8D6UvjlPtD6ULNW_7s2vOBY55CfGDlIgYc4yFM",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Lq_fuEKOUSB0G4JGg3estF1id1GCTeXjIEuMJ58eHgrSL6RbJ0xtrmFMKw9VAY0eYTvK8jymOHGKIJruRufxBA"
+  }
+}
