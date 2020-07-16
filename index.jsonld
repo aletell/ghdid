@@ -19,6 +19,12 @@
       "id": "did:github:aletell#aJR1CGjnfctREFtTZW3bh1XNS8iLbLyMAg1u3sBS-to",
       "controller": "did:github:aletell",
       "publicKeyBase58": "9B6EkAHwk7F6e3ngc2RGv95nrsqwCmLLUHxEp7JDd4Vw"
+    },
+    {
+      "type": "RsaVerificationKey2018",
+      "id": "did:github:aletell#key-1",
+      "controller": "did:github:aletell",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA7ttfUSwJQp6k9iekqMZY\n7C7LXO49OC1ENJvw2bpAZn1IVC8S7XNo8yR8L8O9G2YK9yKw7m08gMelgl9XqTGK\nZLlNAeVuFH6dS1J9FMVlZZEq2+3EgoW1RpIfzchbQaz236vg79z62OZg9cs5vXtW\nD95dvELW2B5YJ1DoxgMdar60QPfcev50G/u2d9EKSSsaxnazfPfPpKDTLuRuPizm\nSsc2QH5kuacWniNCqzp0RFyP3hNoduOaN32TzcsI8+7QPLZeG2gPfsoIdyI+nz9y\nvx6XUNR4qVmpinb0LK3S4pLOMGQHAMlLevtkaWOr3jn1Kls8QyLFgtXJppdOBkcG\ncV3Y69QPJh2W62+EsgjoWe/Oi7QQXrJxGnaeJoK/nf4cOUxzwm8UhmOo96prS+9+\n1Up/Fua0CJXgTjKLjpx3tvUC18BEj7QvsimpCMca/2dHVy+PZ7RHcmPikH4XZ5TB\npcLOXsd81FVIFN+fhHd6cLf0gJ1iHlkxmtZqE7YkbGMS5nUG8v5CahpWUV1rR4x0\ncWPcamb1dgaIrXcPEK5Iayvy20KpzgHU4HdB8JpEuxOFdoyHX9CTY3PGGyaxL948\nht2ugBsI2VImGExYMT5BGB2O6maa2kWMILXHD8oArEFocg/Jr5MvJQj/JjPDBJ3W\nGmfLiHxLMIbGkPRk5ct2nq0CAwEAAQ==\n-----END PUBLIC KEY-----\n"
     }
   ],
   "authentication": [],
